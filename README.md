@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul-kundu
-- 👀 I’m interested in leraning Cloud and DevOps Tool & Technologies
+- 👀 I’m interested in learning Cloud and DevOps Tool & Technologies
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Terraform, Docker, Kubernetes
 - 📫 you can reach me at rahulkunduhr@gmail.com
